@@ -10,8 +10,8 @@ public:
     }
 ```
 
-<div float="center">
-    <img align="left" width="375" src="https://github-readme-stats.vercel.app/api?username=Pxttern&show_icons=false&theme=dark">
-    <img align="right" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Pxttern&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
+<div align="center">
+    <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=Pxttern&show_icons=false&theme=dark">
+    <img align="left" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxttern&show_icons=false&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
+    <img align="left" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Pxttern&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
 </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxttern&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" />
