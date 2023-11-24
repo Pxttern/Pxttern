@@ -11,7 +11,7 @@ public:
 ```
 
 <div align="center">
-    <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=Pxttern&show_icons=false&theme=dark">
+    <img align="left" width="250" src="https://github-readme-stats.vercel.app/api?username=Pxttern&show_icons=false&theme=dark">
     <img align="left" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pxttern&show_icons=false&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
-    <img align="left" width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=Pxttern&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
+    <img align="left" width="250" src="https://github-readme-streak-stats.herokuapp.com/?user=Pxttern&theme=dark&hide_border=false&stroke=0000&background=0D1117&ring=FFFFFF&fire=e6b800&currStreakLabel=FFFFFF">
 </div>
