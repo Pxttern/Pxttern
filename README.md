@@ -5,7 +5,7 @@ class Client {
 public:
     Client() {
         About = "I'm starting to learn different programming languages and cyber security.";
-        Languages = {"Python", "C++", "C", "NodeJS", "Golang"};
+        Languages = {"Python", "C", "NodeJS", "Golang"};
         Social = [];
     }
 ```
